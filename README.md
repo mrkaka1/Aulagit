@@ -1,14 +1,3 @@
-# Hamburgueria
+//Este arquivo foi modificado
 
-> oi
-
-## Páginas obrigatórias
-- o
-- j
-- k
-- k
-- k
-- k
-- k
-- k
 
